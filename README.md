@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SHIVAKUMAR
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently pursuing E&EE in RYMEC
-- 📫 How to reach me @_shiva_.18._(insta)
+- 🌱 I’m currently pursuing E&EE.
 - 😄 Pronouns: he/him
 
 <!---
